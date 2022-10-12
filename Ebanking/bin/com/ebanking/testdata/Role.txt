@@ -1,0 +1,5 @@
+RoleName###RoleType###Results
+Gmanagerbombank###E
+Amanagerbombank###E
+managerbombank###E
+Cashierbombank###E
